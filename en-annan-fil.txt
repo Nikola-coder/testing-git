@@ -1,2 +1,2 @@
 det är en annan fil med lite annan text.
-vi lägger till en extra rad
+vi försöker nu skapa en konflikt.
